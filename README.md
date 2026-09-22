@@ -3,15 +3,15 @@
 </p>
 
 <p align="center">
-  <a href="mailto:your-email@example.com">
+  <a href="mailto:puna0818@gmail.com">
     <img src="https://img.shields.io/badge/Email-FFD6E8?style=for-the-badge&logo=gmail&logoColor=5C4B51"/>
   </a>
   &nbsp;
-  <a href="https://github.com/your-github-username">
+  <a href="[https:[[//github.com/your-github-usernam](https://github.com/)e](https://github.com/)](https://github.com/)">
     <img src="https://img.shields.io/badge/GitHub-D7F2E3?style=for-the-badge&logo=github&logoColor=5C4B51"/>
   </a>
   &nbsp;
-  <a href="https://your-portfolio-link.com">
+  <a href="[https://your-portfolio-link.com](https://app.notion.com/p/a1b1116d25e444f1a90189583be354f2)">
     <img src="https://img.shields.io/badge/Portfolio-FFE8CD?style=for-the-badge&logo=notion&logoColor=5C4B51"/>
   </a>
 </p>
